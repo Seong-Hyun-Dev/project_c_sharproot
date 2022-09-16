@@ -1,7 +1,5 @@
-# team project
+# 프로젝트 수행 내용
 
-## 주제 : LMS 시스템
+## 1주차 프로젝트 수행내용
 
-## 동료 : 4명
-
-# 테스트 : 1
+- 주제 : node.js express 를 이용한 server구성 및 DB구성 과정
