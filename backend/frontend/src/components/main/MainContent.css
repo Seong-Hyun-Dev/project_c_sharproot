@@ -1,0 +1,9 @@
+.maincontent {
+  width: 100vw;
+  height: calc(80% - 55px);
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
